@@ -4,7 +4,7 @@
 
 - 💻 I'm passionate about **Full Stack Development**
 - 🌱 Currently learning **JAVA SCRIPT**.
-- ⚡ HateS DSA BUT LOVES DSA  
+- ⚡ Trying to improve **"Convo skills"**. 
 
 
 ## 🛠️ Skills & Tools
@@ -14,9 +14,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafulmohammad555-cloud&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashrafulmohammad555-cloud&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with Me

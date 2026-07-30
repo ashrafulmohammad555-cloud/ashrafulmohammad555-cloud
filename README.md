@@ -2,22 +2,22 @@
 
 ## 🚀 About Me
 
-- 💻 I'm passionate about **Full Stack Development** and **Cybersecurity**.
-- 🌱 Currently learning **Spring Boot**, **MongoDB**, and **GitHub Actions**.
-- ⚡ Fun Fact: I once debugged a 50-line error just by adding a semicolon!
+- 💻 I'm passionate about **Full Stack Development**
+- 🌱 Currently learning **JAVA SCRIPT**.
+- ⚡ HateS DSA BUT LOVES DSA  
+
 
 ## 🛠️ Skills & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafulmohammad555-cloud&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafulmohammad555-cloud&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulmohammad555-cloud&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 

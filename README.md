@@ -1,10 +1,12 @@
 # 👋 Hi there, I'm Ashraful!
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 💻 I'm passionate about **Full Stack Development**
 - 🌱 Currently learning **JAVA SCRIPT**.
-- ⚡ Trying to improve **"Convo skills"**. 
+- ⚡ Trying to improve **"Convo skills"**.
+- Stronger Communication skills
+
 
 
 ## 🛠️ Skills & Tools

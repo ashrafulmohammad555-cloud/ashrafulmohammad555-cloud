@@ -1,15 +1,11 @@
-# 👋 Hi there, I'm Ashraful!
+# 👋 Hi, Myself Mohammad Ashraful!
 
-## 🚀 About Me:
-
-- 💻 I'm passionate about **Full Stack Development**
-- 🌱 Currently learning **JAVA SCRIPT**.
-- ⚡ Trying to improve **"Convo skills"**.
-- Stronger Communication skills
+## CSE Enthusiat,Coder,Engineer
 
 
 
-## 🛠️ Skills & Tools
+
+## Programming Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
